@@ -1,7 +1,5 @@
 ﻿# Sentiment-Analysis
 
- Here's a professional and detailed README file template for your project. You can modify it as per your specific requirements and add it to your GitHub repository.
-
 ---
 
 # Sentiment Analysis of Food Delivery Reviews
@@ -120,7 +118,4 @@ This project focuses on analyzing customer reviews from Zomato and Swiggy to cla
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
----
-
-Let me know if you want help customizing any section further!
 
